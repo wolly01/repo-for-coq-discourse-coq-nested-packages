@@ -1,0 +1,4 @@
+(coq.theory
+ (name theory_a)
+ (package theory_a)
+)

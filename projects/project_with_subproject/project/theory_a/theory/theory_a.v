@@ -1,0 +1,1 @@
+Inductive Theory_A : Type.

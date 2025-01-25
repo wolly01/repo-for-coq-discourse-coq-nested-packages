@@ -1,0 +1,5 @@
+(coq.theory
+ (name theory_b)
+ (theories theory_a)
+ (package theory_b)
+)
